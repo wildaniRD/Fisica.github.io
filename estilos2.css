@@ -1,0 +1,24 @@
+h1{
+color:  seagreen;
+
+}
+body
+ h1{
+     font-family: 'Rubik Puddles', cursive;
+}
+div {
+margin: 40px;
+
+}
+
+body{
+
+	background-image: url(pon la imagen aqui);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body
+p{
+   font-family: 'Roboto Mono', monospace;
+
+}

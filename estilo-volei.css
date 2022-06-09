@@ -1,0 +1,32 @@
+body{
+
+	margin: 0;
+}
+img{
+	float: right;
+}
+
+li {
+
+	list-style: none;
+}
+
+
+.btn-neon {
+	position:relative;
+	display: inline-black;
+	padding: 15px 30px;
+	letter-spacing: 4px;
+	text-decoration: none;
+	overflow: hidden;
+    transition: 0.2s;
+top: 50%;
+}
+
+.btn-neon:hover {
+	background: red;
+	box-shadow: 0 0 10px red, 0 0 030px red, 0 0 70px red;
+	transition-delay: 0.3s;
+
+}
+

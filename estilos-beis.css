@@ -1,0 +1,31 @@
+body{
+	background-image: url(beisbol.jpg);
+
+	background-size: 100%;
+
+}
+
+p {
+	color: red;
+}
+.btn-neon {
+	position: relative;
+	display: inline-black;
+	padding: 15px 30px;
+	letter-spacing: 4px;
+	text-decoration: none;
+	overflow: hidden;
+    transition: 0.2s;
+}
+
+.btn-neon:hover {
+	background: white;
+	box-shadow: 0 0 10px white, 0 0 030px white, 0 0 70px white;
+	transition-delay: 0.3s;
+}
+
+
+li {
+	color: red;
+	list-style: none;
+}

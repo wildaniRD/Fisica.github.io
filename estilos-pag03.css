@@ -1,0 +1,25 @@
+body{
+background: #F85F19;
+margin: 100
+
+}
+
+h2 {
+	text-align: center;
+}
+
+.btn-neon {
+	position: relative;
+	display: inline-black;
+	padding: 15px 30px;
+	letter-spacing: 4px;
+	text-decoration: none;
+	overflow: hidden;
+    transition: 0.2s;
+}
+
+.btn-neon:hover {
+	background: blue;
+	box-shadow: 0 0 10px blue, 0 0 040px red, 0 0 80px blue;
+	transition-delay: 0.3s;
+	}
